@@ -7,20 +7,20 @@ public class BitMap {
 
     public BitMap(int nbits) {
         this.nbits = nbits;
-        this.bytes = new char[nbits/16+1];
+        this.bytes = new char[nbits / 16 + 1];
     }
 
     public void set(int k) {
-        if (k>nbits) return;
+        if (k > nbits) return;
         int byteIndex = k / 16; //存储在数组第几个上
         int bitIndex = k % 16;  //存储在数组第byteIndex个的第几个二进制位上
         bytes[byteIndex] |= (1 << bitIndex);
     }
 
     public boolean get(int k) {
-        if (k>nbits) return false;
-        int byteIndex = k/16;
-        int bitIndex = k%16;
+        if (k > nbits) return false;
+        int byteIndex = k / 16;
+        int bitIndex = k % 16;
         return (bytes[byteIndex] & (1 << bitIndex)) != 0;
     }
 }
