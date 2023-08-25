@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e9aa39e-78ff-4f7c-ae95-eabfd5ef3f10" name="Default Changelist" comment="华为练习题">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AntGroup/旋转图像.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AntGroup/旋转图像1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AntGroup/组合总和II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AntGroup/通配符匹配.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AntGroup/通配符匹配1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AntGroup/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AntGroup/Solution2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AntGroup/组合总和II.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearch1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BinarySearch2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HuaWei/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HuaWei/Question001$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HuaWei/Question001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HuaWei/Question002.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HuaWei/四数之和.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HuaWei/正则表达式匹配.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M00/AVL$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M00/AVL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M00/RBTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M00/RBTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/Bitset2166.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/DeepestLeavesSum1302.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MaxAlternatingSum1911.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MaximumEvenSplit2178.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MaximumGood2151.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MergeNodes2181.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MinSwaps1963.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MinimizeTheDifference1981.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MinimumDifference1984.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MinimumDifference2163.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MinimumOperations2170.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/MinimumTime2187.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/NumberOfUniqueGoodSubsequences1987.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/RepeatLimitedString2182.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/ThreeSumMulti923.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M03/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/ContainsNearbyAlmostDuplicate220.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/CountPrimes204.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/DelNodes1110.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/FindTarget653.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/FirstMissingPositive41.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/GenerateMatrix59.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/IsSubPath1367.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/IsUnivalTree965.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/Leetcode449.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/MiddleNode876.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/PermuteUnique47.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/RecoverTree99.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/ReverseWords151.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/RunningSum1480.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/SearchBST700.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/Subsets78.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/SumRootToLeaf1022.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/TrimBST669.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/Utils$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/Utils$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M07/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/CanJump55.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/CanPartition416.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Change518.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/ClimbStairs70.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/CoinChange322.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/CombinationSum4_377.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Combine77.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/ConvertToBase7_504.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/CountBits338.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/FindLongestChain646$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/FindLongestChain646.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/FindMaxForm474.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/FindTargetSumWays494.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/GetRow119.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/HZOJ4701背包.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/HammingDistance461.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/IntegerBreak343.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/IsPalindrome234.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/LengthOfLIS300.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/LongestCommonSubsequence1143.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/LongestSubsequence1218.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Massage17_16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MaxProduct152.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MaxProfit122.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MaxProfit123.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MaxProfit309.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MaxProfit714.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MaxSubArray53.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MaximalSquare221.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MinCost256.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MinCostClimbingStairs746.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MinCutOfferII094.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MinMoves2_462.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MinScoreTriangulation1039.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MinSteps650.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/MinimumTotal120.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/NthUglyNumber264.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/NumDecodings91.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/NumWays276.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/NumberOfArithmeticSlices413.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/RemoveConveredIntervals1288$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/RemoveConveredIntervals1288.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Rob198.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Rob213.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Solution382.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Solution384.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Solution528.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Utils$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/WiggleMaxLength376.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M08/WordBreak139.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/CloneGraph133.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/CountBinarySubstrings696.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/CountSubstrings647.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/DiffWaysToCompute241.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/FindKthNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/FindMaximumXOR421$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/FindMaximumXOR421$Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/FindMaximumXOR421.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/IntToRoman12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/IsIsomorphic205.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/IsSubtree572.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/LengthOfLongestSubstring3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/LongestCommonPrefix14$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/LongestCommonPrefix14$Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/LongestCommonPrefix14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/LongestPalindrome409.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/LongestPalindrome5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/LongestPrefix1392.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/MaxLevelSum1161.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/MinimumLengthEncoding820$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/MinimumLengthEncoding820$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/MinimumLengthEncoding820$Tire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/MinimumLengthEncoding820.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/OneEditAway01_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/RepeatedStringMatch686.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/RepeatedSubstringPattern459.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/ShortestPalindrome214.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/StrStr28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/StringMatching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/SuggestedProducts1268$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/SuggestedProducts1268$Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/SuggestedProducts1268.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/TriangleNumber611.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/Trie208$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/Trie208$Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/Trie208.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/TrieTest$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/TrieTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/Utils$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/Utils$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/VerticalTraversal$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/VerticalTraversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/WordDictionary211$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/WordDictionary211$Tire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/WordDictionary211.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/WordFilter745$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/WordFilter745$Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M09/WordFilter745.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/AverageOfLevels637$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/AverageOfLevels637.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/ConnectSticks1167.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/CorpFlightBookings1109$FenwickTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/CorpFlightBookings1109.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/CreateSortedArray1649$FenwickTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/CreateSortedArray1649.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/FenwickTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/FindMaxLength525.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/Flatten114$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/Flatten114.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/GetMaximumXor1829.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/GrayCode89.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/LongestValidParentheses32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/MagicDictionary676$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/MagicDictionary676$Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/MagicDictionary676.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/MaxFrequency1938.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/MaximumSwap670.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/MinWinodw76.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/MultiSearch17_17$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/MultiSearch17_17$Trie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/MultiSearch17_17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/NumArray307.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/NumMatrix304.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/PivotIndex724.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/ProcessQueries1409$FenwickTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/ProcessQueries1409.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/StreamRank10_10$FenwickTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/StreamRank10_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/ValidIPAddress468.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/VerifyPreorder255.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/XorQueries1310$FenwickTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M10/XorQueries1310.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/AddBinary67.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/CarPooling1094.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/CountOrders1359.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/CuttingRope_Offer14II.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/FindDuplicate287.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/GameOfLine289.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/GcdOfStrings1071.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/GetPermutation60.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/GoodDaysToRobBank2100.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/GroupAnagrams49.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/LongestDecomposition1147.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/LongestUnivaluePath687$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/LongestUnivaluePath687.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/MagicTower_LCP30.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/MaxSubArray53.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/MinCut132.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/NthMagicalNumber878.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/NumIdenticalPairs1512.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/NumPrimeArrangements1175.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/NumRollsToTarget1155.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/ReachNumber754.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/ShortestBridge934.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/SimplifiedFractions1447.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/StoneGame877.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/SubsetXORSum1863.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/SuperPow372.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/ValidMountainArray941.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M11/addOneRow623.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/Checker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/CountDifferentSubsequenceGCDs1819.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/Fraction_LCP02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/HasGroupsSizeX914.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/Insert_OfferII029.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/MajorityElement229.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/MinFlipsMonoIncr926.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/MinSumOfLengths1477.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/MinimumTimeRequired1723.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/NthUglyNumber1201.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/M12/PeekingIterator284.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MegreSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/BF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/BPlusTreeLeafNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/BPlusTreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/BinarySearchTree$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/BinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/BitMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/CircularQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/CountingSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/Heap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/LRUCache$DLinkedNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/LRUCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/LinkedUnionFindSet$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/LinkedUnionFindSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/PrefixSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/PrintPermutations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/SegmentTree$Segment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/SegmentTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TheBeautyOfDataStructureAndAlgorithm/ChapterII_Array_LinkedList_Stack_Queue/TreeUnionFindSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bintree.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2FkqPPVXi2dz3iUZWnjnTXzi2il" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zookeeper-3.6.3" />
+  </component>
+  <component name="RunManager">
+    <configuration name="组合总和II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AntGroup.组合总和II" />
+      <module name="test_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AntGroup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.组合总和II" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e9aa39e-78ff-4f7c-ae95-eabfd5ef3f10" name="Default Changelist" comment="" />
+      <created>1665046404877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665046404877</updated>
+      <workItem from="1665046405980" duration="2280000" />
+      <workItem from="1665235411753" duration="2073000" />
+      <workItem from="1666049751754" duration="1974000" />
+      <workItem from="1666100447796" duration="65000" />
+      <workItem from="1666137814558" duration="1641000" />
+      <workItem from="1666187515204" duration="26000" />
+      <workItem from="1666280133596" duration="2154000" />
+      <workItem from="1666433272513" duration="21000" />
+      <workItem from="1683459414140" duration="1209000" />
+      <workItem from="1684681715910" duration="1742000" />
+      <workItem from="1685895406143" duration="1517000" />
+      <workItem from="1689090539041" duration="1268000" />
+      <workItem from="1689258736356" duration="997000" />
+      <workItem from="1689523165874" duration="1155000" />
+      <workItem from="1692709523816" duration="4815000" />
+      <workItem from="1692891534958" duration="2286000" />
+      <workItem from="1692968057645" duration="3891000" />
+    </task>
+    <task id="LOCAL-00001" summary="数据结构与算法之美-二分查找">
+      <created>1665048383470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665048383470</updated>
+    </task>
+    <task id="LOCAL-00002" summary="数据结构与算法之美-二分查找">
+      <created>1665241840171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665241840171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="数据结构与算法之美-LRU缓存淘汰算法">
+      <created>1666051654360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666051654360</updated>
+    </task>
+    <task id="LOCAL-00004" summary="数据结构与算法之美-LRU缓存淘汰算法">
+      <created>1666138472924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666138472924</updated>
+    </task>
+    <task id="LOCAL-00005" summary="数据结构与算法之美-LRU缓存淘汰算法">
+      <created>1666139456750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666139456750</updated>
+    </task>
+    <task id="LOCAL-00006" summary="数据结构与算法之美-全排列、B+树、堆">
+      <created>1666282258793</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666282258793</updated>
+    </task>
+    <task id="LOCAL-00007" summary="华为练习题">
+      <created>1685895527166</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685895527166</updated>
+    </task>
+    <task id="LOCAL-00008" summary="华为练习题">
+      <created>1685896912727</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685896912727</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="数据结构与算法之美-二分查找" />
+    <MESSAGE value="数据结构与算法之美-LRU缓存淘汰算法" />
+    <MESSAGE value="数据结构与算法之美-全排列、B+树、堆" />
+    <MESSAGE value="华为练习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="华为练习题" />
+  </component>
+</project>
