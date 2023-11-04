@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e9aa39e-78ff-4f7c-ae95-eabfd5ef3f10" name="Default Changelist" comment="华为练习题">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/找出数组的串联值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/罗马数字转整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/老人的数目.java" afterDir="false" />
+    <list default="true" id="4e9aa39e-78ff-4f7c-ae95-eabfd5ef3f10" name="Default Changelist" comment="leetcode练习题">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/删除有序数组中的重复项.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/统计能整除数字的位数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AntGroup/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AntGroup/Solution2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +43,22 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../zookeeper-3.6.3" />
   </component>
-  <component name="RunManager" selected="Application.找出数组的串联值">
+  <component name="RunManager" selected="Application.删除有序数组中的重复项">
     <configuration name="找出数组的串联值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.简单.找出数组的串联值" />
+      <module name="test_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="删除有序数组中的重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.简单.删除有序数组中的重复项" />
       <module name="test_algorithm" />
       <extension name="coverage">
         <pattern>
@@ -65,6 +76,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AntGroup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计能整除数字的位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leetcode.简单.统计能整除数字的位数" />
+      <module name="test_algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Leetcode.简单.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.删除有序数组中的重复项" />
         <item itemvalue="Application.找出数组的串联值" />
         <item itemvalue="Application.组合总和II" />
       </list>
@@ -133,7 +158,9 @@
       <workItem from="1697124232302" duration="2069000" />
       <workItem from="1697469325255" duration="1310000" />
       <workItem from="1698066595913" duration="2507000" />
-      <workItem from="1698162929921" duration="331000" />
+      <workItem from="1698162929921" duration="438000" />
+      <workItem from="1698250525760" duration="1120000" />
+      <workItem from="1699105434952" duration="3841000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构与算法之美-二分查找">
       <created>1665048383470</created>
@@ -198,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692979513062</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="leetcode练习题">
+      <created>1698163345171</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698163345171</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +255,7 @@
     <MESSAGE value="数据结构与算法之美-LRU缓存淘汰算法" />
     <MESSAGE value="数据结构与算法之美-全排列、B+树、堆" />
     <MESSAGE value="华为练习题" />
-    <option name="LAST_COMMIT_MESSAGE" value="华为练习题" />
+    <MESSAGE value="leetcode练习题" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode练习题" />
   </component>
 </project>
