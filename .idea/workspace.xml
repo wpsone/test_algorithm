@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e9aa39e-78ff-4f7c-ae95-eabfd5ef3f10" name="Default Changelist" comment="leetcode练习题">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/最后一个单词的长度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/移除元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/统计范围内的元音字符串数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/K个元素的最大和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/二叉树的中序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/二叉树的最大深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/删除排序链表中的重复元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/合并两个有序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/最长奇偶子数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/杨辉三角.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/简单/相同的树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,12 +54,6 @@
     <configuration name="找出数组的串联值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.简单.找出数组的串联值" />
       <module name="test_algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Leetcode.简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,7 +161,13 @@
       <workItem from="1699105434952" duration="3900000" />
       <workItem from="1699188441830" duration="1402000" />
       <workItem from="1699285460992" duration="441000" />
-      <workItem from="1699371555309" duration="939000" />
+      <workItem from="1699371555309" duration="962000" />
+      <workItem from="1699458825946" duration="65000" />
+      <workItem from="1699793650100" duration="1871000" />
+      <workItem from="1699888434750" duration="499000" />
+      <workItem from="1700063861838" duration="783000" />
+      <workItem from="1700150946471" duration="2391000" />
+      <workItem from="1700223731394" duration="5538000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构与算法之美-二分查找">
       <created>1665048383470</created>
@@ -240,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699109947985</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="leetcode练习题">
+      <created>1699372509329</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699372509329</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
